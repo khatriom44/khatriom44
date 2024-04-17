@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Om Khatri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="khatriom44" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="khatriom44" />
 <!--<p align="left"> <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="khatriom44" /> </p>-->
 - 🔭 I’m currently working on **GROWTHPAD**
 
